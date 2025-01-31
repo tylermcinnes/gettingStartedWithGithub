@@ -1,0 +1,10 @@
+---
+title: Episode 1 - A New Repo
+---
+
+A new repo (short for repository) is needed.
+
+
+[createNewRepository.png]
+
+To create a new repo we will navigate to the repositories tab and click on the green "New" button. The 

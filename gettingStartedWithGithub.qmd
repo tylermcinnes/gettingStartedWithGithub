@@ -1,7 +1,27 @@
 ---
-title: "gettingStartedWithGithub"
+title: "Getting Started With Github"
 format: html
 editor: visual
 ---
 
+In this short workshop we will look at Github for two things: 
 
+1. Saving and storing code with tracked changes. 
+
+2. Publicly hosting your code. 
+
+Another great feature of Github is that you can work *collaboratively* with team members. However, collaboration can be overwhelming when getting started so for today we will just look at Github for storing code and public hosting. 
+
+For some people those two things, storing code and publicly hosting code, might sound like one and the same. For other people, the idea of making their code public is anxiety-inducing. I grew up in the second category, but I'm gradually moving myself in the first category. First, let's look at storing our code with Github.
+
+## Github for storing code
+
+Github allows us to store our code in repositories. Generally, each project will have it's own repository (*e.g.,* each training workshop, each data analysis project, each collaboration would have it's own rpository). For short, we refer to these as a "repo", or "repos". A single repo can store documents and files (usually a README, working docs and files) and can have structure (subdirectories). Repos can be set to either public or private. 
+
+Once we have created the repo on github we will *clone* the repo to a local location on our own device. We can then make changes to our document locally and *commit* the changes we have made and *push* them to the online repo. The new changes are now saved remotely. *Commits* are tracked, meaning we can revert to an earlier version of documents if we encounter critical errors. 
+
+## Publicly hosting 
+
+Hopefully you are already using something like RMarkdown or an equivalent system to organise and save your code, and that code is well annotated (If you aren't familiar with [RMarkdown](https://rmarkdown.rstudio.com/), it is worth starting). 
+
+[Quarto](https://quarto.org/) uses the Rmarkdown syntax and can be used to render your code and annotation into websites like this one! (Quarto can also render the same documents into pdfs or slide presentations). Converting your existing Rmarkdown documents into Quarto documents is very easy

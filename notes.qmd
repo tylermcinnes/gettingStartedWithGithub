@@ -4,28 +4,26 @@ format: html
 editor: visual
 ---
 
-This document is a set of scratch notes that I'm keeping for myself. It's not part of the workshop, so feel free to read or disregard this page as you see fit. 
+This document is a set of scratch notes that I'm keeping for myself. It's not part of the workshop, so feel free to read or disregard this page as you see fit.
 
-I'm writing the gettingStarted workshop while simultaneously writing my intoTheTidyverse workshop. Since I'm writing intoTheTidyverse from scratch, I figured it's worth documenting the process I'm going through as both "how to write a workshop" and "how to get started with github". 
-
+I'm writing the gettingStarted workshop while simultaneously writing my intoTheTidyverse workshop. Since I'm writing intoTheTidyverse from scratch, I figured it's worth documenting the process I'm going through as both "how to write a workshop" and "how to get started with github".
 
 ## Things to add
 
-- I've saved screenshots of all the steps involved in making this repo, cloning it using RStudio, and then opening a new quarto doc, visual vs source. Need to document the process. 
+-   I've saved screenshots of all the steps involved in making this repo, cloning it using RStudio, and then opening a new quarto doc, visual vs source. Need to document the process.
 
-- First commit, commit messages etc.,.
+-   First commit, commit messages etc.,.
 
-- Using gitignore. 
+-   Using gitignore.
 
-- I'm already realising that I might re-make those images for the intoTheTidyverse repo, since that's what I actually want to focus on (rather than using gettingStarted as the example - I don't want a 'meta' example i.e., gettingStarted using gettingStarted is confusing).
+-   I'm already realising that I might re-make those images for the intoTheTidyverse repo, since that's what I actually want to focus on (rather than using gettingStarted as the example - I don't want a 'meta' example i.e., gettingStarted using gettingStarted is confusing).
 
-- Using chatgpt to solve basic q, specifically around controlling the quarto doc. 
+-   Using chatgpt to solve basic q, specifically around controlling the quarto doc.
 
-- Writing in source and using visual to add things like an "*", so I know how to do it in future. 
-
+-   Writing in source and using visual to add things like an "\*", so I know how to do it in future.
 
 ### Adding exercises
 
-- I've been thinking a lot about the differences between (and balance of) showcase, follow-along, and exercises in workshops. For intoTheTidyverse I want to drastically reduce the quantity of the content and focus on exercises which give the user practice.
+-   I've been thinking a lot about the differences between (and balance of) showcase, follow-along, and exercises in workshops. For intoTheTidyverse I want to drastically reduce the quantity of the content and focus on exercises which give the user practice.
 
-- This is mostly coming from thoughts on how I taught as a Teaching Fellow vs how I teach as a workshop Instructor. As a Teaching Fellow I used a lot of exercises and felt like I'd developed a sense of how to balance repetition and increasing complexity to effectively get someone to memorise how to do a task. 
+-   This is mostly coming from thoughts on how I taught as a Teaching Fellow vs how I teach as a workshop Instructor. As a Teaching Fellow I used a lot of exercises and felt like I'd developed a sense of how to balance repetition and increasing complexity to effectively get someone to memorise how to do a task.
